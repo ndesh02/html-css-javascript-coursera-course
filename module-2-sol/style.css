@@ -8,7 +8,7 @@ body{
 
 .row{
     width: 33%;
-
+    float: left;
 }
 #row-1{
     background-color: purple;
