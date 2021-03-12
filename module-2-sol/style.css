@@ -9,12 +9,13 @@ body{
 .row{
     width: 33%;
     float: left;
+    position: relative;
 }
 #row-1{
-    background-color: purple;
+    background-color: rgb(131, 74, 131);
 }
 #row-2{
-    background-color: aqua;
+    background-color: rgb(16, 24, 24);
 }
 #row-3{
     background-color: beige;
