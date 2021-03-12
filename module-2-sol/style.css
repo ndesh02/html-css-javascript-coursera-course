@@ -32,6 +32,18 @@ body{
         width: 50%;
         float: left;
     }
+    #col-1{
+        width: 50%;
+        float: left;
+    }
+    #col-2{
+        width: 50%;
+        float: right;
+    }
+    #col-2{
+        width:50%;
+        float: left;
+    }
     
 }
 @media (max-width: 768px){
