@@ -30,7 +30,7 @@ body{
 @media (max-width: 992px){
     .row{
         width: 50%;
-        float: right;
+        float: left;
     }
     
 }
