@@ -25,12 +25,6 @@ body{
     background-color: beige;
 }
 
-.col-lg-4 {
-    width: 33.33%;
-    float: left;
-}
-
-
 
 
 @media (max-width: 992px){
@@ -38,21 +32,24 @@ body{
         width: 50%;
         float: left;
     }
- 
-    .col-md-6 {
+    #col-1{
         width: 50%;
         float: left;
-      }
-      .col-md-12 {
-        width: 100%;
+    }
+    #col-2{
+        width: 50%;
+        float: right;
+    }
+    #col-2{
+        width:50%;
         float: left;
-      }
+    }
     
 }
 @media (max-width: 768px){
-    .col-sx-12 {
+    .column{
+        width: 100%;
         float: left;
-      width: 100%;
     }
 }
 
